@@ -13,7 +13,7 @@
 🎓 Student at **Vidya Jyothi Institute of Technology**
 🤖 Passionate about **Machine Learning, Deep Learning, and AI systems**
 📱 Building smart apps with **Flutter + Dart**
-🐍 Strong in **Python, NumPy, Pandas, Matplotlib, PyTorch, Keras**
+🐍 Strong in **Python, NumPy, Pandas, Matplotlib, Seaborn, PyTorch, Keras**
 🌐 Exploring **React, Next.js, deployment platforms, and scalable AI apps**
 🚀 Focused on building **real-world intelligent products**
 
@@ -45,9 +45,9 @@
 
 ## 📊 GitHub Stats
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pavanakarthik12&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pavanakarthik12&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanakarthik12&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pavanakarthik12&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
@@ -62,14 +62,20 @@
 ## 🚀 Current Focus
 
 🧠 Neural Networks
-📈 ML + DL Projects
-📱 Flutter AI Apps
-🌐 React + Next.js
-☁️ Vercel / Netlify / Render Deployments
+📈 Machine Learning + Deep Learning Projects
+📱 Flutter AI Applications
+🌐 React + Next.js Development
+☁️ Deployment with Vercel / Netlify / Render
 
 </div>
 
 ---
+
+<div align="center">
+
+✨ *Always learning. Always building. Always evolving.* ✨
+
+</div>
 
 <div align="center">
 
