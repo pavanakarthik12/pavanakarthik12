@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:1a0000,40:3d0000,100:1a0000&text=Pavan%20Karthik&fontSize=52&fontColor=fff5f5&fontAlignY=50&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20AI%20Builder&descSize=15&descAlignY=70&descColor=ff4444&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=220&color=0:1a0000,60:5c0000,100:3d0000&text=Pavan%20Karthik&fontAlign=70&rotate=13&fontSize=48&fontColor=fff5f5&fontAlignY=25&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20AI%20Builder&descAlign=68&descAlignY=50&descSize=14&descColor=ff4444&animation=fadeIn"/>
 
 </div>
 
@@ -99,18 +99,16 @@ passion: "Turning data into intelligence,
 <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql&theme=dark" />
 
 <br/><br/>
+
 **DevOps & Deployment**
 
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 </div>
-
 
 ---
 
@@ -180,5 +178,5 @@ passion: "Turning data into intelligence,
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=120&color=0:1a0000,40:3d0000,100:1a0000&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:3d0000,100:1a0000&stroke=ff4444&strokeWidth=2&section=footer&reversal=true"/>
 </div>
