@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=220&color=0:1a0000,60:5c0000,100:3d0000&text=Pavan%20Karthik&fontAlign=70&rotate=13&fontSize=48&fontColor=fff5f5&fontAlignY=25&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20AI%20Builder&descAlign=68&descAlignY=50&descSize=14&descColor=ff4444&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:1a0000,40:3d0000,100:1a0000&text=Pavan%20Karthik&fontSize=52&fontColor=fff5f5&fontAlignY=50&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20AI%20Builder&descSize=15&descAlignY=70&descColor=ff4444&animation=fadeIn"/>
 
 </div>
 
@@ -12,50 +12,7 @@
 
 </div>
 
----
-
-<table align="center" border="0">
-<tr>
-<td width="50%" valign="top">
-
-### 🧬 About Me
-
-```yaml
-name: Pavan Karthik
-location: Hyderabad, India
-institution: Vidya Jyothi Institute of Technology
-role: ML Engineer & Flutter Developer
-
-focus:
-  - Agentic AI & LLM Systems
-  - Deep Learning & Neural Architectures
-  - AI-Powered Mobile Applications
-  - Scalable ML Pipelines
-
-currently_learning:
-  - LLM Agents & Tool-Use Frameworks
-  - RAG & Vector Databases
-  - Advanced PyTorch & Deep Learning
-  - React / Next.js Ecosystems
-
-passion: "Turning data into intelligence,
-          and intelligence into products."
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Quick Stats
-
-<br/>
-
-🎓 &nbsp; B.Tech Student — VJIT, Hyderabad  
-🤖 &nbsp; Agentic AI · LLMs · Deep Learning  
-🔬 &nbsp; CNNs · RNNs · Transformers · GANs  
-📱 &nbsp; Flutter + Dart — Smart Mobile Apps  
-🐍 &nbsp; Python, PyTorch, Keras, NumPy, Pandas  
-🌐 &nbsp; React, Next.js, Full-Stack Web  
-☁️ &nbsp; Vercel · Netlify · Render · Firebase  
+@@ -59,7 +59,7 @@ passion: "Turning data into intelligence,
 
 <br/>
 
@@ -63,19 +20,7 @@ passion: "Turning data into intelligence,
 
 </td>
 </tr>
-</table>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-**Languages & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=python,dart,flutter,js,ts,react,nextjs,html,css&theme=dark&perline=9" />
-
-<br/><br/>
+@@ -79,18 +79,18 @@ passion: "Turning data into intelligence,
 
 **Deep Learning & AI Stack**
 
@@ -94,40 +39,28 @@ passion: "Turning data into intelligence,
 
 <br/>
 
-**Databases & Cloud**
-
+@@ -99,15 +99,19 @@ passion: "Turning data into intelligence,
 <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql&theme=dark" />
 
 <br/><br/>
 
 **DevOps & Deployment**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
 
 </div>
+
 
 ---
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/pavanakarthik12">
-  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavanakarthik12&theme=github_dark"/>
-  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pavanakarthik12&theme=github_dark"/>
-  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pavanakarthik12&theme=github_dark"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/pavanakarthik12">
-  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavanakarthik12&theme=github_dark"/>
-</a>
-
+@@ -129,7 +133,7 @@ passion: "Turning data into intelligence,
 <br/><br/>
 
 <a href="https://github.com/pavanakarthik12">
@@ -135,10 +68,7 @@ passion: "Turning data into intelligence,
 </a>
 
 </div>
-
----
-
-## 📈 Contribution Activity
+@@ -140,7 +144,7 @@ passion: "Turning data into intelligence,
 
 <div align="center">
 
@@ -146,11 +76,7 @@ passion: "Turning data into intelligence,
 
 </div>
 
----
-
-## 🚀 Current Focus
-
-<div align="center">
+@@ -152,10 +156,10 @@ passion: "Turning data into intelligence,
 
 | 🤖 Agentic AI & LLMs | 🔬 Deep Learning | 🧠 ML Systems | 📱 Flutter AI | 🚀 Deployment |
 |:---:|:---:|:---:|:---:|:---:|
@@ -161,9 +87,7 @@ passion: "Turning data into intelligence,
 
 </div>
 
----
-
-<div align="center">
+@@ -165,7 +169,7 @@ passion: "Turning data into intelligence,
 
 ### 💬 Let's Connect & Build Together
 
@@ -171,12 +95,9 @@ passion: "Turning data into intelligence,
 
 <br/>
 
-*"Every dataset tells a story. Every model makes it speak."*
-
-</div>
-
+@@ -176,5 +180,5 @@ passion: "Turning data into intelligence,
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:3d0000,100:1a0000&stroke=ff4444&strokeWidth=2&section=footer&reversal=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=120&color=0:1a0000,40:3d0000,100:1a0000&section=footer"/>
 </div>
