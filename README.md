@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2318,40:1a4731,100:14532d&text=Pavan%20Karthik&fontSize=52&fontColor=ecfdf5&fontAlignY=40&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20AI%20Builder&descSize=16&descAlignY=62&descColor=34d399&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=200&color=0:0f2318,50:1a4731,100:14532d&text=Pavan%20Karthik&fontSize=52&fontColor=ecfdf5&fontAlignY=45&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20AI%20Builder&descSize=16&descAlignY=65&descColor=34d399&animation=fadeIn&reversal=false"/>
 
 </div>
 
@@ -176,5 +176,5 @@ passion: "Turning data into intelligence,
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:14532d,50:1a4731,100:0f2318&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=120&color=0:14532d,50:1a4731,100:0f2318&section=footer&reversal=true"/>
 </div>
