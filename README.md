@@ -1,16 +1,6 @@
 <div align="center">
 
-# ╔════════════════════════════════════════════════════╗
-
-# ✨ PAVAN KARTHIK ✨
-
-# ╚════════════════════════════════════════════════════╝
-
-### 🤖 Machine Learning & Deep Learning Engineer
-
-### 📱 Flutter Developer | 🐍 Python Enthusiast | 🚀 AI Builder
-
-> *Transforming ideas into intelligent applications and data-driven solutions.*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&text=Pavan%20Karthik&fontSize=40&fontAlignY=45&desc=Machine%20Learning%20Engineer%20%7C%20Flutter%20Developer&descAlignY=70"/>
 
 </div>
 
@@ -18,38 +8,14 @@
 
 <div align="center">
 
-```diff
-+ 👨‍💻 ABOUT ME
-```
+## 🌟 About Me
 
-</div>
-
-```yaml
-name: Pavan Karthik
-role: AI / ML Engineer + Flutter Developer
-college: Vidya Jyothi Institute of Technology
-focus:
-  - Machine Learning
-  - Deep Learning
-  - Neural Networks
-  - Flutter App Development
-  - React + Full Stack
-learning:
-  - Advanced Neural Networks
-  - AI Product Deployment
-  - Modern Web Development
-goal: Build impactful smart systems for real-world use
-```
-
----
-
-<div align="center">
-
-```diff
-+ 🌐 CONNECT WITH ME
-```
-
-[Instagram](https://instagram.com/pavanakarthik_890) • [Email](mailto:pavanakarthikeya@outlook.com)
+🎓 Student at **Vidya Jyothi Institute of Technology**
+🤖 Passionate about **Machine Learning, Deep Learning, and AI systems**
+📱 Building smart apps with **Flutter + Dart**
+🐍 Strong in **Python, NumPy, Pandas, Matplotlib, PyTorch, Keras**
+🌐 Exploring **React, Next.js, deployment platforms, and scalable AI apps**
+🚀 Focused on building **real-world intelligent products**
 
 </div>
 
@@ -57,13 +23,7 @@ goal: Build impactful smart systems for real-world use
 
 <div align="center">
 
-```diff
-+ 💻 TECH STACK
-```
-
-</div>
-
-<div align="center">
+## 🎨 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,flutter,dart,react,nextjs,js,ts,html,css,firebase,mongodb,mysql,git,github,vercel,netlify" />
 
@@ -71,7 +31,7 @@ goal: Build impactful smart systems for real-world use
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -83,21 +43,15 @@ goal: Build impactful smart systems for real-world use
 
 <div align="center">
 
-```diff
-+ 📊 GITHUB STATS
-```
+## 📊 GitHub Stats
 
-</div>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pavanakarthik12&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pavanakarthik12&show_icons=true&theme=tokyonight&hide_border=false" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanakarthik12&layout=compact&theme=tokyonight&hide_border=false" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanakarthik12&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanakarthik12&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=pavanakarthik12&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -105,28 +59,20 @@ goal: Build impactful smart systems for real-world use
 
 <div align="center">
 
-```diff
-+ 🚀 CURRENT FOCUS
-```
+## 🚀 Current Focus
+
+🧠 Neural Networks
+📈 ML + DL Projects
+📱 Flutter AI Apps
+🌐 React + Next.js
+☁️ Vercel / Netlify / Render Deployments
 
 </div>
-
-```text
-🧠 Machine Learning Projects
-📈 Deep Learning Models
-📱 Flutter + AI Applications
-🌐 React / Next.js Development
-☁️ Deployment on Vercel / Netlify / Render
-```
 
 ---
 
 <div align="center">
 
-# ╔════════════════════════════════════════════════════╗
-
-# 🚀 KEEP LEARNING • KEEP BUILDING • KEEP WINNING
-
-# ╚════════════════════════════════════════════════════╝
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=gradient&section=footer"/>
 
 </div>
