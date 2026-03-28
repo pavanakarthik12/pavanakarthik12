@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0a0a,40:0d2137,100:0a3d2e&text=Pavan%20Karthik&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20AI%20Builder&descSize=16&descAlignY=62&descColor=00e5ff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0c0c0c,40:1a1200,100:2d1f00&text=Pavan%20Karthik&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20AI%20Builder&descSize=16&descAlignY=62&descColor=f5a623&animation=fadeIn"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Agentic+AI+%26+LLM+Pipelines+%F0%9F%A4%96;Crafting+AI-Powered+Mobile+Apps+%F0%9F%93%B1;Exploring+the+Frontiers+of+Deep+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F5A623&center=true&vCenter=true&width=680&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Agentic+AI+%26+LLM+Pipelines+%F0%9F%A4%96;Crafting+AI-Powered+Mobile+Apps+%F0%9F%93%B1;Exploring+the+Frontiers+of+Deep+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -34,9 +34,9 @@ focus:
 
 currently_learning:
   - LLM Agents & Tool-Use Frameworks
+  - RAG & Vector Databases
   - Advanced PyTorch Architectures
   - React / Next.js Ecosystems
-  - Cloud Deployment Pipelines
 
 passion: "Turning data into intelligence,
           and intelligence into products."
@@ -59,7 +59,7 @@ passion: "Turning data into intelligence,
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=pavanakarthik12&color=00e5ff&style=flat-square&label=Profile+Views)](https://github.com/pavanakarthik12)
+[![Profile Views](https://komarev.com/ghpvc/?username=pavanakarthik12&color=f5a623&style=flat-square&label=Profile+Views)](https://github.com/pavanakarthik12)
 
 </td>
 </tr>
@@ -83,10 +83,10 @@ passion: "Turning data into intelligence,
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d2137?style=for-the-badge&logo=python&logoColor=00e5ff)
-![Seaborn](https://img.shields.io/badge/Seaborn-0a3d2e?style=for-the-badge&logo=python&logoColor=00e5ff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1a1200?style=for-the-badge&logo=python&logoColor=f5a623)
+![Seaborn](https://img.shields.io/badge/Seaborn-2d1f00?style=for-the-badge&logo=python&logoColor=f5a623)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00e5ff?style=for-the-badge&logo=chainlink&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-f5a623?style=for-the-badge&logo=chainlink&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 <br/>
@@ -101,7 +101,7 @@ passion: "Turning data into intelligence,
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&theme=dark" />
 &nbsp;
-![Render](https://img.shields.io/badge/Render-00e5ff?style=for-the-badge&logo=render&logoColor=black)
+![Render](https://img.shields.io/badge/Render-f5a623?style=for-the-badge&logo=render&logoColor=black)
 
 </div>
 
@@ -112,25 +112,22 @@ passion: "Turning data into intelligence,
 <div align="center">
 
 <a href="https://github.com/pavanakarthik12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavanakarthik12&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00e5ff&icon_color=00b4cc&text_color=c9d1d9&ring_color=00e5ff&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanakarthik12&layout=compact&hide_border=true&bg_color=0D1117&title_color=00e5ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavanakarthik12&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pavanakarthik12&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pavanakarthik12&theme=github_dark"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/pavanakarthik12">
-  <img width="70%" src="https://streak-stats.demolab.com?user=pavanakarthik12&hide_border=true&background=0D1117&ring=00e5ff&fire=00b4cc&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=ffffff&stroke=00e5ff" alt="GitHub Streak"/>
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavanakarthik12&theme=github_dark"/>
 </a>
 
-</div>
+<br/><br/>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pavanakarthik12&theme=onestar&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/pavanakarthik12">
+  <img width="60%" src="https://streak-stats.demolab.com?user=pavanakarthik12&hide_border=true&background=0D1117&ring=f5a623&fire=e08000&currStreakLabel=f5a623&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=ffffff&stroke=f5a623" alt="GitHub Streak"/>
+</a>
 
 </div>
 
@@ -140,7 +137,7 @@ passion: "Turning data into intelligence,
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pavanakarthik12&bg_color=0D1117&color=00e5ff&line=00b4cc&point=ffffff&area=true&hide_border=true&area_color=00e5ff)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pavanakarthik12&bg_color=0D1117&color=f5a623&line=e08000&point=ffffff&area=true&hide_border=true&area_color=f5a623)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -154,7 +151,7 @@ passion: "Turning data into intelligence,
 |:---:|:---:|:---:|:---:|:---:|
 | LLM Agents | Neural Networks | Flutter + ML | React / Next.js | Vercel / Render |
 | Tool-Use Pipelines | PyTorch / Keras | Smart Mobile Apps | Full-Stack Apps | CI/CD Pipelines |
-| RAG Systems | Model Fine-tuning | Dart & Firebase | REST APIs | Scalable Systems |
+| RAG & Vector DBs | Model Fine-tuning | Dart & Firebase | REST APIs | Scalable Systems |
 | Prompt Engineering | Computer Vision | On-Device AI | API Integration | Docker / Cloud |
 
 </div>
@@ -165,7 +162,7 @@ passion: "Turning data into intelligence,
 
 ### 💬 Let's Connect & Build Together
 
-[![GitHub](https://img.shields.io/badge/GitHub-pavanakarthik12-0D1117?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/pavanakarthik12)
+[![GitHub](https://img.shields.io/badge/GitHub-pavanakarthik12-0D1117?style=for-the-badge&logo=github&logoColor=f5a623)](https://github.com/pavanakarthik12)
 
 <br/>
 
@@ -176,5 +173,5 @@ passion: "Turning data into intelligence,
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0a3d2e,50:0d2137,100:0a0a0a&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2d1f00,50:1a1200,100:0c0c0c&section=footer"/>
 </div>
