@@ -1,0 +1,224 @@
+<svg width="860" height="200" viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#080808"/>
+      <stop offset="45%"  stop-color="#160000"/>
+      <stop offset="100%" stop-color="#080808"/>
+    </linearGradient>
+
+    <!-- Subtle red vignette in center -->
+    <radialGradient id="vignette" cx="50%" cy="50%" r="55%">
+      <stop offset="0%"   stop-color="#2a0000" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#080808" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Glow filters -->
+    <filter id="g1" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="g2" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="g3" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <filter id="textglow" x="-10%" y="-30%" width="120%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="subtleglow" x="-10%" y="-40%" width="120%" height="180%">
+      <feGaussianBlur stdDeviation="1.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- ── BACKGROUND ── -->
+  <rect width="860" height="200" rx="6" fill="url(#bg)"/>
+  <rect width="860" height="200" rx="6" fill="url(#vignette)"/>
+
+  <!-- ── STATIC BASE BORDER (very dim) ── -->
+  <rect x="2" y="2" width="856" height="196" rx="5"
+        fill="none" stroke="#1e0808" stroke-width="1"/>
+
+  <!-- ── OUTER BORDER GLOW PULSE ── -->
+  <rect x="2" y="2" width="856" height="196" rx="5"
+        fill="none" stroke="#DC503C" stroke-width="0.5" opacity="0">
+    <animate attributeName="opacity"
+             values="0;0.15;0;0.1;0"
+             keyTimes="0;0.3;0.6;0.8;1"
+             dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- ── COMET LAYER 1 — main bright comet (fast) ── -->
+  <!-- Long bright head + long fading tail  perimeter=2*(856+196)=2104 -->
+  <rect x="2" y="2" width="856" height="196" rx="5"
+        fill="none" stroke="#ffffff" stroke-width="2"
+        stroke-dasharray="2 2102"
+        stroke-linecap="round"
+        filter="url(#g1)">
+    <animate attributeName="stroke-dashoffset"
+             from="0" to="-2104"
+             dur="2.8s" repeatCount="indefinite" calcMode="linear"/>
+  </rect>
+
+  <!-- Comet core bright -->
+  <rect x="2" y="2" width="856" height="196" rx="5"
+        fill="none" stroke="#ff9980" stroke-width="2.5"
+        stroke-dasharray="6 2098"
+        stroke-linecap="round"
+        filter="url(#g2)">
+    <animate attributeName="stroke-dashoffset"
+             from="0" to="-2104"
+             dur="2.8s" repeatCount="indefinite" calcMode="linear"/>
+  </rect>
+
+  <!-- Comet tail — medium -->
+  <rect x="2" y="2" width="856" height="196" rx="5"
+        fill="none" stroke="#DC503C" stroke-width="2"
+        stroke-dasharray="40 2064"
+        stroke-linecap="round"
+        opacity="0.7"
+        filter="url(#g1)">
+    <animate attributeName="stroke-dashoffset"
+             from="6" to="-2098"
+             dur="2.8s" repeatCount="indefinite" calcMode="linear"/>
+  </rect>
+
+  <!-- Comet tail — long fade -->
+  <rect x="2" y="2" width="856" height="196" rx="5"
+        fill="none" stroke="#8a1a0a" stroke-width="2"
+        stroke-dasharray="90 2014"
+        stroke-linecap="round"
+        opacity="0.35"
+        filter="url(#g2)">
+    <animate attributeName="stroke-dashoffset"
+             from="10" to="-2094"
+             dur="2.8s" repeatCount="indefinite" calcMode="linear"/>
+  </rect>
+
+  <!-- Outer diffuse bloom -->
+  <rect x="2" y="2" width="856" height="196" rx="5"
+        fill="none" stroke="#DC503C" stroke-width="8"
+        stroke-dasharray="20 2084"
+        stroke-linecap="round"
+        opacity="0.12"
+        filter="url(#g3)">
+    <animate attributeName="stroke-dashoffset"
+             from="0" to="-2104"
+             dur="2.8s" repeatCount="indefinite" calcMode="linear"/>
+  </rect>
+
+  <!-- ── COMET LAYER 2 — second comet offset by half (slower, dimmer) ── -->
+  <rect x="2" y="2" width="856" height="196" rx="5"
+        fill="none" stroke="#ff8060" stroke-width="1.5"
+        stroke-dasharray="4 2100"
+        stroke-linecap="round"
+        opacity="0.6"
+        filter="url(#g2)">
+    <animate attributeName="stroke-dashoffset"
+             from="-1052" to="-3156"
+             dur="2.8s" repeatCount="indefinite" calcMode="linear"/>
+  </rect>
+  <rect x="2" y="2" width="856" height="196" rx="5"
+        fill="none" stroke="#DC503C" stroke-width="1.5"
+        stroke-dasharray="55 2049"
+        stroke-linecap="round"
+        opacity="0.3"
+        filter="url(#g1)">
+    <animate attributeName="stroke-dashoffset"
+             from="-1055" to="-3159"
+             dur="2.8s" repeatCount="indefinite" calcMode="linear"/>
+  </rect>
+
+  <!-- ── CORNER ACCENTS ── -->
+  <!-- top-left -->
+  <g opacity="0.9">
+    <polyline points="2,44 2,2 44,2" fill="none" stroke="#DC503C" stroke-width="1.5"/>
+    <polyline points="2,44 2,2 44,2" fill="none" stroke="#ff9980" stroke-width="1" filter="url(#g1)" opacity="0.6"/>
+    <!-- corner dot -->
+    <circle cx="2" cy="2" r="2.5" fill="#DC503C" filter="url(#g2)">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <!-- top-right -->
+  <g opacity="0.9">
+    <polyline points="816,2 858,2 858,44" fill="none" stroke="#DC503C" stroke-width="1.5"/>
+    <polyline points="816,2 858,2 858,44" fill="none" stroke="#ff9980" stroke-width="1" filter="url(#g1)" opacity="0.6"/>
+    <circle cx="858" cy="2" r="2.5" fill="#DC503C" filter="url(#g2)">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <!-- bottom-left -->
+  <g opacity="0.9">
+    <polyline points="2,156 2,198 44,198" fill="none" stroke="#DC503C" stroke-width="1.5"/>
+    <polyline points="2,156 2,198 44,198" fill="none" stroke="#ff9980" stroke-width="1" filter="url(#g1)" opacity="0.6"/>
+    <circle cx="2" cy="198" r="2.5" fill="#DC503C" filter="url(#g2)">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <!-- bottom-right -->
+  <g opacity="0.9">
+    <polyline points="816,198 858,198 858,156" fill="none" stroke="#DC503C" stroke-width="1.5"/>
+    <polyline points="816,198 858,198 858,156" fill="none" stroke="#ff9980" stroke-width="1" filter="url(#g1)" opacity="0.6"/>
+    <circle cx="858" cy="198" r="2.5" fill="#DC503C" filter="url(#g2)">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- ── INNER CONTENT ── -->
+
+  <!-- Scanline texture (subtle) -->
+  <rect x="3" y="3" width="854" height="194" rx="4"
+        fill="none" stroke="#ffffff" stroke-width="0.3" opacity="0.02"
+        stroke-dasharray="1 3"/>
+
+  <!-- Top micro label -->
+  <text x="24" y="22"
+        font-family="'Courier New', monospace"
+        font-size="8" letter-spacing="3" fill="#4a1a1a">ML · AI · FLUTTER</text>
+
+  <!-- Right micro label -->
+  <text x="836" y="22" text-anchor="end"
+        font-family="'Courier New', monospace"
+        font-size="8" letter-spacing="3" fill="#4a1a1a">HYDERABAD · IN</text>
+
+  <!-- Main name -->
+  <text x="430" y="95"
+        text-anchor="middle"
+        font-family="'Courier New', Courier, monospace"
+        font-size="46" font-weight="bold"
+        letter-spacing="12"
+        fill="#f5f0ec"
+        filter="url(#subtleglow)">PAVAN KARTHIK</text>
+
+  <!-- Thin divider line -->
+  <line x1="180" y1="112" x2="680" y2="112"
+        stroke="#DC503C" stroke-width="0.5" opacity="0.5"/>
+  <!-- Divider end dots -->
+  <circle cx="180" cy="112" r="1.5" fill="#DC503C" opacity="0.7"/>
+  <circle cx="680" cy="112" r="1.5" fill="#DC503C" opacity="0.7"/>
+
+  <!-- Role line -->
+  <text x="430" y="135"
+        text-anchor="middle"
+        font-family="'Courier New', Courier, monospace"
+        font-size="11.5" letter-spacing="4"
+        fill="#DC503C"
+        filter="url(#subtleglow)">ML ENGINEER  ·  FLUTTER DEVELOPER  ·  AI BUILDER</text>
+
+  <!-- Tagline -->
+  <text x="430" y="162"
+        text-anchor="middle"
+        font-family="'Courier New', Courier, monospace"
+        font-size="9.5" letter-spacing="2"
+        fill="#3a2020">Turning data into intelligence  —  Hyderabad, IN</text>
+
+  <!-- Bottom-right version tag -->
+  <text x="836" y="185" text-anchor="end"
+        font-family="'Courier New', monospace"
+        font-size="7.5" letter-spacing="2" fill="#2a1010">v2025</text>
+
+</svg>
